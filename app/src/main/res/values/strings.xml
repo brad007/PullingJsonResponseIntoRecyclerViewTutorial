@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PullingJsonResponseIntoRecyclerViewTutorial</string>
+    <string name="zomato_api"><![CDATA[https://developers.zomato.com/api/v2.1/search?lat=-33.92127&lon=18.4180213&count=10]]></string>
+
+</resources>
